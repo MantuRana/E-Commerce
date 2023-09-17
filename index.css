@@ -460,18 +460,18 @@ font-size: 30px;
         width: 60%;
         margin-top: 23px;
         border-radius: 11px;
-        padding: 11px;
-        height:15%;
+        padding: 14px;
+        height:18%;
 
     } */
     .blogCard {
-        margin-left:15%;
+        margin-left:12%;
         background-color: #fff;
         width: 300px;
         margin-top:10px;
         border-radius: 11px;
-        padding: 8px;
-        height:400px;
+        padding: 10px;
+        height:430px;
     
     }
 
